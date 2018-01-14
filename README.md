@@ -14,6 +14,6 @@ Exercises for java
   
  #### Verify 
  
- If you have JRE or JDK so you wont get problems running this commands above but with you dont so i recommend installing it :
+ If you have JRE or JDK so you wont get problems running this commands above with, but if you dont so i recommend installing it :
  
  - http://www.oracle.com/technetwork/java/javase/downloads/index.html 
