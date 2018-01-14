@@ -1,18 +1,18 @@
 # Java-Work
 Exercises for java
 
-####The exercises was found on URI.
+#### The exercises was found on URI.
 
--URI: https://www.urionlinejudge.com.br
+- URI: https://www.urionlinejudge.com.br
 
-####Compile 
+#### Compile 
 
 - javac  <file.java>
 
 
 - java file
   
- ####Verify 
+ #### Verify 
  
  If you have JRE or JDK so you wont get problems running this commands above but with you dont so i recommend installing it :
  
