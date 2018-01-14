@@ -9,7 +9,8 @@ Exercises for java
 
 - javac  <file.java>
 
--java <file>
+
+-java file
   
  #Verify 
  
